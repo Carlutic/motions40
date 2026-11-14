@@ -291,13 +291,15 @@
     "name": "モーション",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_181120_mmd_solo/_/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_181120_mmd_solo/_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_181120_mmd_solo/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/6bdfd9e81ffea6ff.mp3"
   },
   {
     "name": "モーション (2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_190209_mmd_lisa_swall/_/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_190209_mmd_lisa_swall/_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_190209_mmd_lisa_swall/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/03f45727f2886b27.mp3"
   },
   {
     "name": "9. BlackPink - So Hot - miku",
@@ -310,7 +312,8 @@
     "name": "モーション (3)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_mmd_blackpink_kill_th/_/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_mmd_blackpink_kill_th/_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions40/collection/1_korean_songs_1_mmd_blackpink_kill_th/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/2d22aa3ac83b97e4.mp3"
   },
   {
     "name": "BAAM FACE",
@@ -657,7 +660,8 @@
     "name": "Main Motion data (enviroment)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/3_japanese_songs_4_self_inflicted_achr/main_motion_data_env/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions31/collection/3_japanese_songs_4_self_inflicted_achr/main_motion_data_env/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions31/collection/3_japanese_songs_4_self_inflicted_achr/main_motion_data_env/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/98e4c9f3dfa44171.mp3"
   },
   {
     "name": "shake_it_by_kristiqn545 - ShakeIt_Rin",
@@ -1140,19 +1144,22 @@
     "name": "身！下！(动作配布)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/4_memes/_/main_4.vmd",
-    "expressionMotionFile": "https://carlutic.github.io/motions44/collection/4_memes/_/expression.vmd"
+    "expressionMotionFile": "https://carlutic.github.io/motions44/collection/4_memes/_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/1f4a9c85211271bc.mp3"
   },
   {
     "name": "身！下！(动作配布) - 小(2233娘 眼部修改)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/4_memes/_2233_/main.vmd",
-    "expressionMotionFile": "https://carlutic.github.io/motions44/collection/4_memes/_/expression.vmd"
+    "expressionMotionFile": "https://carlutic.github.io/motions44/collection/4_memes/_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/1f4a9c85211271bc.mp3"
   },
   {
     "name": "Death - winer of the D",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/5_martial_arts_moves_death/death_winer_of_the_d/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions43/collection/5_martial_arts_moves_death/death/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions43/collection/5_martial_arts_moves_death/death/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/0c68cb71fc53aa1f.mp3"
   },
   {
     "name": "do you wanna fight motion",
@@ -1240,7 +1247,8 @@
     "name": "打排球和翻跟头 by 京桥刹那 - 翻跟头",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/5_martial_arts_moves_by/_by_/main_3.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions41/collection/5_martial_arts_moves_by/_by_/camera_2.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions41/collection/5_martial_arts_moves_by/_by_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/092239bb1e0294ed.mp3"
   },
   {
     "name": "荒ぶる古美門のポーズ",
@@ -1543,7 +1551,8 @@
     "name": "仰卧起坐 by 京桥刹那",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/7_daily_moves_by/_by_/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions40/collection/7_daily_moves_by/_by_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions40/collection/7_daily_moves_by/_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/01dea5d2f5c4104a.mp3"
   },
   {
     "name": "女の子の撮影モーション(カメラアピール編)",
@@ -1772,7 +1781,8 @@
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/7_daily_moves_by/_by_1_2_/main_2.vmd",
     "partnerMotionFile": "https://carlutic.github.io/motions31/collection/7_daily_moves_by/_by_1_2_/partner_2.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/7_daily_moves_by/_by_1_2_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/7_daily_moves_by/_by_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/25b9d41b0e9cc2a2.mp3"
   },
   {
     "name": "もぶvmd (3+4)",
@@ -2592,12 +2602,14 @@
   {
     "name": "儕僢僾僔儞僋",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_ding_dong/_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_ding_dong/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/bca65c06fa39a3a6.mp3"
   },
   {
     "name": "儕僢僾僔儞僋 - 儕僢僾偺傒(Da-little偝傫壒尮)",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_ding_dong/_da_little_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_ding_dong/_da_little_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/bca65c06fa39a3a6.mp3"
   },
   {
     "name": "Distorted_Princess_Motion",
@@ -2752,30 +2764,35 @@
     "name": "完全固定版11名用 (1+2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap_11/_11_1_2_/main.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap_11/_11_1_2_/partner.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap_11/_11_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "完全固定版11名用 (5+6)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_happytap_11/_11_5_6_/main.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_happytap_11/_11_5_6_/partner.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_happytap_11/_11_5_6_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "完全固定版11名用 (1+2) (2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap_11/_11_1_2_/main_2.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap_11/_11_1_2_/partner_2.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap_11/_11_1_2_/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "完全固定版11名用 (3)",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_happytap_11/_11_3_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_happytap_11/_11_3_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "通常版 (3+4)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap/_3_4_/main_3.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap/_3_4_/partner_3.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018_happytap/_3_4_/partner_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "harebare",
@@ -3019,7 +3036,8 @@
   {
     "name": "only my railgun",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions12/collection/8_old_stuff_2016_2018_only_my_railgun_/only_my_railgun/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions12/collection/8_old_stuff_2016_2018_only_my_railgun_/only_my_railgun/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/17332c8d3a854d4c.mp3"
   },
   {
     "name": "only my railgun(改変)",
@@ -3304,13 +3322,15 @@
   {
     "name": "こころのたまご - kokoro_no_tamagoB",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_kokoro_no_tamagob/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_kokoro_no_tamagob/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/ab2cf07c490d3ab1.mp3"
   },
   {
     "name": "こっち向いてBABY",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_baby/_baby/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_baby/_baby/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_baby/_baby/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/eef233b999d4627a.mp3"
   },
   {
     "name": "三代目ポッキーダンス",
@@ -3482,12 +3502,14 @@
   {
     "name": "スノートリック",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018/_/main_64.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018/_/main_64.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/5d9ff5cd82b69943.mp3"
   },
   {
     "name": "スノートリック - miku",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_miku/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_miku/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/5d9ff5cd82b69943.mp3"
   },
   {
     "name": "Motion (3)",
@@ -3517,7 +3539,8 @@
   {
     "name": "トリノコシティ",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_/main_73.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_/main_73.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/77ca691f34abff0c.mp3"
   },
   {
     "name": "ハートアラモードモーション - ハートアラモードモーション",
@@ -3670,7 +3693,8 @@
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018/_8200_8200_/main.vmd",
     "partnerMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018/_8200_8200_/partner.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018/_8200_8200_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018/_8200_8200_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/6c37c78f66901b52.mp3"
   },
   {
     "name": "君の想い出オリジナルモーション",
@@ -3911,7 +3935,8 @@
     "name": "積乱雲",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_/main_176.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_/camera_28.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_/camera_28.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/3e5c2af49418f98c.mp3"
   },
   {
     "name": "第三次プリン戦争モーション",
@@ -3963,12 +3988,14 @@
   {
     "name": "薛定谔的小猫",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_/main_182.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions31/collection/8_old_stuff_2016_2018/_/main_182.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/de50b6b9a73af2e0.mp3"
   },
   {
     "name": "薛定谔的小猫 - シュレディンガイガーのこねこβ2_準標準",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018/_2_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018/_2_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/de50b6b9a73af2e0.mp3"
   },
   {
     "name": "虎視眈々モーションセット - 虎視眈々_黒子",
@@ -4155,7 +4182,8 @@
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_get_out_by_motsu/get_out_by_motsuno_h/main.vmd",
     "partnerMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_get_out_by_motsu/get_out_by_motsuno_h/partner.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_get_out_by_motsu/get_out_by_motsuno_h/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions40/collection/8_old_stuff_2016_2018_get_out_by_motsu/get_out_by_motsuno_h/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/27b16ffa998a04fe.mp3"
   },
   {
     "name": "GOROD POD PODOSHVOI [MOTION]",
